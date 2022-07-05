@@ -1,0 +1,5 @@
+cachetools==5.2.0
+expiringdict==1.2.1
+humanfriendly==10.0
+pymemcache==3.5.2
+influxdb_client==1.29.1
